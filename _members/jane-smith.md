@@ -1,5 +1,5 @@
 ---
-name: Jane Smith
+name: Cheng Zhuo
 image: images/photo.jpg
 role: pi
 affiliation: University of Colorado
