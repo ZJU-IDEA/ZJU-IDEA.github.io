@@ -1,7 +1,6 @@
 ---
-title: Example post 3
-image: images/photo.jpg
-author: john-doe
+title: FIT Workshop 26
+author: Zheyu Yan
 tags: biology, medicine
 ---
 
