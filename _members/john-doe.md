@@ -27,9 +27,9 @@ B.S., Electronic Science and Technology, Zhejiang University, Hangzhou, 2019
 
 ## Selected Publications
 ### Journals
-[J1] Zheyu Yan, Xiaobo Sharon Hu, and Yiyu Shi. “U-SWIM: Universal Selective Write-Verify for Computing-in-Memory Neural Accelerators.” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2024).
-1. Zheyu Yan, Xiaobo Sharon Hu, and Yiyu Shi. “Compute-in-Memory based Neural Network Accelerators for Safety-Critical Systems: Worst-Case Scenarios and Protections.” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2024).
-2. Weiwen Jiang, Qiuwen Lou, Zheyu Yan, Lei Yang, Jingtong Hu, X. Sharon Hu and Yiyu Shi, “Device-Circuit-Architecture Co-Exploration for Computing-in-Memory Neural Accelerators,” IEEE Transactions on Computers
+1. Zheyu Yan, Xiaobo Sharon Hu, and Yiyu Shi. “U-SWIM: Universal Selective Write-Verify for Computing-in-Memory Neural Accelerators.” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2024).
+2. Zheyu Yan, Xiaobo Sharon Hu, and Yiyu Shi. “Compute-in-Memory based Neural Network Accelerators for Safety-Critical Systems: Worst-Case Scenarios and Protections.” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2024).
+3. Weiwen Jiang, Qiuwen Lou, Zheyu Yan, Lei Yang, Jingtong Hu, X. Sharon Hu and Yiyu Shi, “Device-Circuit-Architecture Co-Exploration for Computing-in-Memory Neural Accelerators,” IEEE Transactions on Computers
 
 ### Conferences
 1. Zheyu Yan, Yifan Qin, X. Sharon Hu and Yiyu Shi, “Improving Realistic Worst-Case Performance of NVCiM DNN Accelerators through Training with Right-Censored Gaussian Noise,” in Proc. of IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2023
