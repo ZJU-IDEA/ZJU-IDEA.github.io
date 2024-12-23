@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: ZJU-IDEA
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: For integrated circuit design and design automation (EDA).
 header: images/background.png
 footer: images/background.png
 proofer: false

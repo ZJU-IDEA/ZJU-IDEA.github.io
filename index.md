@@ -3,7 +3,12 @@
 
 # ZJU-IDEA's Website
 
-An engaging 1-3 sentence description of your lab.
+The primary research areas include integrated circuit design and design automation (EDA), covering design-manufacturing collaboration, low-power circuits and systems, deep learning algorithms and hardware acceleration, as well as power and signal integrity.
+
+- **Design-Manufacturing Collaboration**: Cross-level modeling and optimization across process, device, and circuit layers.
+- **Low-Power Circuits and Systems**: Approximate computing and storage-compute integrated circuits/architectures/systems.
+- **Deep Learning Algorithms and Hardware Acceleration**: Optimization of deep learning operators, multi-modal large models, and algorithm/system reliability.
+- **Power and Signal Integrity**: Machine learning-assisted solvers, parallel algorithms, and system-level simulation/optimization/management techniques.
 
 {% include section.html %}
 
