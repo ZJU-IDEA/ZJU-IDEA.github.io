@@ -9,6 +9,29 @@ nav:
 
 Please find us at czhuo AT zju.edu.cn
 
+{% include section.html %}
+
+{% capture col1 %}
+
+{%
+  include figure.html
+  image="images/contact/map_small.png"
+  caption="Lorem ipsum"
+%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/contact/map_in.png"
+  caption="Lorem ipsum"
+%}
+
+{% endcapture %} -->
+
+{% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
 
