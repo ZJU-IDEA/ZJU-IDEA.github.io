@@ -46,7 +46,7 @@
   publisher: arXiv
   date: '2024-01-01'
   link: https://doi.org/g8wp8h
-  image: images/fabgpt.jpg
+  image: https://zju-idea.github.io/images/fabgpt.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.23919/DATE58400.2024.10546711
