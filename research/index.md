@@ -11,7 +11,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="PACE: A Piece-Wise Approximate and Configurable Floating" style="rich" %}
+{% include citation.html lookup="FabGPT: An Efficient" style="rich" %}
 
 {% include section.html %}
 
