@@ -7,10 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+Please find us at czhuo AT zju.edu.cn
+<!-- 
 {%
   include button.html
   type="email"
@@ -50,28 +48,27 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   caption="Lorem ipsum"
 %}
 
-{% endcapture %}
+{% endcapture %} -->
 
 {% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+浙江大学杭州国际科创中心（水博园区）
+A03 511
+杭州市萧山区平澜路2118号
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+ZJU-Hangzhou Global Scientific and Technological Innovation Center
+Building A03, Office 511, Water Expo Campus
+2118 Pinglan Road
+Xiaoshan, Hangzhou, China
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
