@@ -15,8 +15,7 @@ The primary research areas include integrated circuit design and design automati
 ## Highlights
 
 {% capture text %}
-
-Take a look at the projects spanning from Integrated circuit design and EDA to large language models.
+The primary research areas include integrated circuit design and design automation (EDA), covering design-manufacturing collaboration, low-power circuits and systems, deep learning algorithms and hardware acceleration, as well as power and signal integrity.
 
 {%
   include button.html
@@ -34,14 +33,13 @@ Take a look at the projects spanning from Integrated circuit design and EDA to l
   image="images/fabgpt.jpg"
   link="projects"
   title="Our Projects"
-  flip=true
   style="bare"
   text=text
 %}
 
 {% capture text %}
 
-The primary research areas include integrated circuit design and design automation (EDA), covering design-manufacturing collaboration, low-power circuits and systems, deep learning algorithms and hardware acceleration, as well as power and signal integrity.
+Take a look at our research outcomes spanning from Integrated circuit design and EDA to large language models.
 
 {%
   include button.html
@@ -58,7 +56,8 @@ The primary research areas include integrated circuit design and design automati
   include feature.html
   image="images/sem_dac.jpg"
   link="research"
-  title="Our Research"
+  title="Research Outcomes"
+  flip=true
   text=text
 %}
 
