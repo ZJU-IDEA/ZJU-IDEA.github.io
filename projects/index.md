@@ -7,6 +7,22 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
+{% capture text %}
+
+- Compute-in-Memory systems design.
+- Approximate digital circuits design.
+-  Boolean satisfiability problem solver design.
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/projects/ASIC.jpg"
+  title="Application Specific Integrated Circuit Design"
+  style="bare"
+  text=text
+%}
+
 Our open-sourced projects.
 
 {% include tags.html tags="publication, resource, website" %}
