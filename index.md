@@ -79,7 +79,7 @@ Our team spans across the College of Integrated Circuits and the College of Info
 
 {%
   include feature.html
-  image="images/czhuo_front.jpg"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text
