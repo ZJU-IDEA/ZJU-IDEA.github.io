@@ -16,7 +16,7 @@ The primary research areas include integrated circuit design and design automati
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The primary research areas include integrated circuit design and design automation (EDA), covering design-manufacturing collaboration, low-power circuits and systems, deep learning algorithms and hardware acceleration, as well as power and signal integrity.
 
 {%
   include button.html
@@ -31,7 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/agile_iccad.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -39,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Take a look at the projects spanning from Integrated circuit design and EDA to large language models.
 
 {%
   include button.html
@@ -54,7 +54,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/fabgpt.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -64,7 +64,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team spans across the College of Integrated Circuits and the College of Information Science & Electronic Engineering with more than 50 members.
 
 {%
   include button.html
@@ -79,7 +79,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/czhuo_front.jpg"
   link="team"
   title="Our Team"
   text=text
