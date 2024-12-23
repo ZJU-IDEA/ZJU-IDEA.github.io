@@ -13,11 +13,11 @@ Our selected publications.
 
 ## Highlighted
 
-{% include citation.html lookup="Egg" style="rich" %}
+{% include citation.html lookup="PACE: A Piece-Wise Approximate and Configurable Floating" style="rich" %}
 
 {% include section.html %}
 
-## All
+## Other Selected Publications
 
 {% include search-box.html %}
 
