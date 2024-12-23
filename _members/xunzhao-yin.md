@@ -1,6 +1,6 @@
 ---
 name: Xunzhao Yin
-image: images/photo.jpg
+image: images/members/x-yin.jpg
 role: pi
 affiliation: Zhejiang University
 aliases:

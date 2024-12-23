@@ -1,6 +1,6 @@
 ---
 name: Cheng Zhuo
-image: images/photo.jpg
+image: images/members/c-zhuo.jpg
 role: pi
 affiliation: Zhejiang University
 aliases:

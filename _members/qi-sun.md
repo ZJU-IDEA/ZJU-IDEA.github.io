@@ -1,6 +1,6 @@
 ---
 name: Qi Sun
-image: images/photo.jpg
+image: images/members/q-sun.jpg
 role: pi
 affiliation: Zhejiang University
 aliases:
