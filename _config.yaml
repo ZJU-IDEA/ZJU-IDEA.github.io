@@ -7,9 +7,8 @@ footer: images/background.png
 proofer: false
 
 # site social media and other links
-# excluded orcid, twitter and youtube
+# excluded email, orcid, twitter and youtube
 links:
-  email: contact@ZJU-IDEA.com
   google-scholar: -XSbEFAAAAAJ
   github: ZJU-IDEA
 
