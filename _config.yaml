@@ -7,13 +7,11 @@ footer: images/background.png
 proofer: false
 
 # site social media and other links
+# excluded orcid, twitter and youtube
 links:
   email: contact@ZJU-IDEA.com
-  orcid: 0000-0001-8713-9213
   google-scholar: -XSbEFAAAAAJ
   github: ZJU-IDEA
-  twitter: ZJU-IDEA
-  youtube: ZJU-IDEA
 
 ### jekyll settings
 
