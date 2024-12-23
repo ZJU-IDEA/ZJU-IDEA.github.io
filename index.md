@@ -29,6 +29,15 @@ Take a look at the projects spanning from Integrated circuit design and EDA to l
 
 {% endcapture %}
 
+{%
+  include feature.html
+  image="images/fabgpt.jpg"
+  link="projects"
+  title="Our Projects"
+  flip=true
+  style="bare"
+  text=text
+%}
 
 {% capture text %}
 
@@ -52,6 +61,7 @@ The primary research areas include integrated circuit design and design automati
   title="Our Research"
   text=text
 %}
+
 
 {% capture text %}
 
