@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Our selected publications.
-
 {% include section.html %}
 
 ## Highlighted

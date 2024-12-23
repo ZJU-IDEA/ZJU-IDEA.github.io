@@ -1,6 +1,6 @@
 - id: 10.1109/TCAD.2024.3455242
 - id: 10.1145/3637528.3671568
 - id: 10.48550/arXiv.2407.10810
-  image: images/fabgpt.jpg
+  image: https://zju-idea.github.io/images/fabgpt.jpg
 - id: 10.23919/DATE58400.2024.10546711
   image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/10546498/10546499/10546711/10546711-fig-3-source-large.gif
