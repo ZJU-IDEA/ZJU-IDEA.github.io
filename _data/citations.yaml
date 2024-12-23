@@ -1,5 +1,53 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: 10.1109/TCAD.2024.3455242
+  title: Fast Machine-Learning-Driven Supply Noise-Aware Macromodeling for High-Speed
+    Nonlinear Drivers
+  authors:
+  - Songyu Sun
+  - Xiao Dong
+  - Qi Sun
+  - Xunzhao Yin
+  - Quan Chen
+  - Cheng Zhuo
+  publisher: IEEE Transactions on Computer-Aided Design of Integrated Circuits and
+    Systems
+  date: '2024-01-01'
+  link: https://doi.org/g8wp8f
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1145/3637528.3671568
+  title: 'MISP: A Multimodal-based Intelligent Server Failure Prediction Model for
+    Cloud Computing Systems'
+  authors:
+  - Xianting Lu
+  - Yunong Wang
+  - Yu Fu
+  - Qi Sun
+  - Xuhua Ma
+  - Xudong Zheng
+  - Cheng Zhuo
+  publisher: Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery
+    and Data Mining
+  date: '2024-08-24'
+  link: https://doi.org/g8wp8g
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.48550/arXiv.2407.10810
+  title: 'FabGPT: An Efficient Large Multimodal Model for Complex Wafer Defect Knowledge
+    Queries'
+  authors:
+  - Yuqi Jiang
+  - Xudong Lu
+  - Qian Jin
+  - Qi Sun
+  - Hanming Wu
+  - Cheng Zhuo
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g8wp8h
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.23919/DATE58400.2024.10546711
   title: 'PACE: A Piece-Wise Approximate and Configurable Floating - Point Divider
     for Energy - Efficient Computing'
