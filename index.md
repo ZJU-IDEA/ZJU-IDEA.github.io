@@ -31,7 +31,7 @@ The primary research areas include integrated circuit design and design automati
 
 {%
   include feature.html
-  image="images/agile_iccad.jpg"
+  image="images/sem_dac.jpg"
   link="research"
   title="Our Research"
   text=text
