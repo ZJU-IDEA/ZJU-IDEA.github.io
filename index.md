@@ -1,7 +1,7 @@
 ---
 ---
 
-# ZJU-IDEA's Website
+# IDEA Lab @ Zhejiang University
 
 The primary research areas include integrated circuit design and design automation (EDA), covering design-manufacturing collaboration, low-power circuits and systems, deep learning algorithms and hardware acceleration, as well as power and signal integrity.
 
