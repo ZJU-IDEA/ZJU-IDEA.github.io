@@ -7,9 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**Lead PI:** Cheng Zhuo is a Qiushi Distinguished Professor and Tenured Full Professor at Zhejiang University, as well as a doctoral supervisor.
+
+He has held various positions, including Deputy Director of the Advanced Integrated Circuit Manufacturing Technology Research Institute, Director of the Institute of Computational Intelligence and Signal Processing, Deputy Director of the Graduate Admissions Office, and Director of the Zhejiang University-UPYun Joint Research Center for Intelligent Computing Innovation. 
 
 {% include section.html %}
 
@@ -18,9 +18,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.png" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our team spans across the College of Integrated Circuits and the College of Information Science & Electronic Engineering with more than 50 members.
 
 {% include section.html %}
 

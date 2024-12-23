@@ -9,6 +9,7 @@ nav:
 
 Please find us at czhuo AT zju.edu.cn
 
+{% include section.html %}
 
 {% capture col1 %}
 
@@ -28,7 +29,7 @@ Please find us at czhuo AT zju.edu.cn
   caption=""
 %}
 
-{% endcapture %} -->
+{% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
 
