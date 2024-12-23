@@ -1,7 +1,7 @@
 ---
 name: Zheyu Yan
 image: images/photo.jpg
-role: pi
+role: co-pi
 affiliation: Zhejiang University
 links:
   github: mariusanje
