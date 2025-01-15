@@ -16,10 +16,17 @@ Zheyu Yan is currently an Assistant Professor (ZJUY100 Researcher) at the Colleg
 
 He has openings for highly motivated prospective M.Phil./Ph.D. students and Research Assistants with backgrounds in computer science and engineering, electronic engineering, applied mathematics, or other related fields. Please contact him with your CV and transcript if you’re interested.
 
+<br><br>
+
+<br><br>
+  
+
+
+  
 ## Education
 
-Ph.D. Student, Computer Science and Engineering, University of Notre Dame, IN, 2024
-B.S., Electronic Science and Technology, Zhejiang University, Hangzhou, 2019
+* Ph.D., Computer Science and Engineering, University of Notre Dame, IN, 2024
+* B.S., Electronic Science and Technology, Zhejiang University, Hangzhou, 2019
 
 ## Awards
 
