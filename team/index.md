@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-**Lead PI:** Cheng Zhuo is a Qiushi Distinguished Professor and Tenured Full Professor at Zhejiang University, as well as a doctoral supervisor.
-
-He has held various positions, including Deputy Director of the Advanced Integrated Circuit Manufacturing Technology Research Institute, Director of the Institute of Computational Intelligence and Signal Processing, Deputy Director of the Graduate Admissions Office, and Director of the Zhejiang University-UPYun Joint Research Center for Intelligent Computing Innovation. 
+**Lead PI:** Cheng Zhuo is a Qiushi Distinguished Professor and Tenured Full Professor at Zhejiang University.
 
 {% include section.html %}
 
