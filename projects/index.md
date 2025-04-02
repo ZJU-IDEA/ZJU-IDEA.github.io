@@ -73,7 +73,7 @@ nav:
   text=text
 %}
 
-
+{% comment %}
 {% include section.html %}
 
 ## Open-Sourced Projects
@@ -83,3 +83,4 @@ nav:
 {% include search-info.html %}
 
 {% include list.html component="card" data="projects" style="small" %}
+{% endcomment %}
