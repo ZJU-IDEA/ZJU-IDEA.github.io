@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-**Lead PI:** Cheng Zhuo is a Qiushi Distinguished Professor and Tenured Full Professor at Zhejiang University.
-
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
@@ -16,7 +14,7 @@ nav:
 
 {% include section.html background="images/background.png" dark=true %}
 
-Our team spans across the College of Integrated Circuits and the College of Information Science & Electronic Engineering with more than 50 members.
+本团队由信电、集电等学院师生联合组成，形成跨学科协作研究体系。
 
 {% include section.html %}
 
