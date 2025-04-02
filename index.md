@@ -32,7 +32,7 @@
   include feature.html
   image="images/fabgpt.jpg"
   link="projects"
-  title="Our Projects"
+  title="科研项目"
   style="bare"
   text=text
 %}
@@ -56,7 +56,7 @@
   include feature.html
   image="images/sem_dac.jpg"
   link="research"
-  title="Research Outcomes"
+  title="研究成果"
   flip=true
   text=text
 %}
@@ -80,6 +80,6 @@
   include feature.html
   image="images/team.jpg"
   link="team"
-  title="Our Team"
+  title="研究团队"
   text=text
 %}
