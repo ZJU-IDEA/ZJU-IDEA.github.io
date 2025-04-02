@@ -8,7 +8,7 @@ aliases:
   - Z Yan
 links:
   home-page: https://zyyan.top/
-  orcid: 0000-0003-1830-606X
+  orcid: 0000-0000-0000-0000
   google-scholar: Wd8mEEAAAAAJ
 ---
 
