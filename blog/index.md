@@ -17,4 +17,6 @@ nav:
 
 {% include search-info.html %}
 
-#{% include list.html data="posts" component="post-excerpt" %}
+{% comment %}
+{% include list.html data="posts" component="post-excerpt" %}
+{% endcomment %}
