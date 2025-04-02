@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Please find us at czhuo AT zju.edu.cn
+联系方式：czhuo AT zju.edu.cn
 
 {% include section.html %}
 
