@@ -73,6 +73,23 @@ nav:
   text=text
 %}
 
+{% capture text %}
+
+- 大模型越狱攻击与防御.
+- Agent安全.
+- 自动驾驶安全.
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/projects/security.jpg"
+  title="大模型安全"
+  flip=true
+  style="bare"
+  text=text
+%}
+
 {% comment %}
 {% include section.html %}
 
