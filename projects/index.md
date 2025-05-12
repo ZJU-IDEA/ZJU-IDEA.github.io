@@ -85,7 +85,6 @@ nav:
   include feature.html
   image="images/projects/security.jpg"
   title="大模型安全"
-  flip=true
   style="bare"
   text=text
 %}
